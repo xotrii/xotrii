@@ -58,6 +58,14 @@ I use GitHub as my coding area for projects that combine front-end development, 
 | **Computer Science Labs** | Java OOP, inheritance, recursion, stacks, queues, file I/O, and data structures practice |
 | **Creative Branding** | XOTRII visual systems, dark mode layouts, hacker-green accents, and underground anime-inspired design language |
 
+## XOTRII Project Library
+
+| Project | Focus | Link |
+|---|---|---|
+| **XOTRII Online Brand System** | Hacker-green cyber branding, visual identity, UI direction | [View Project](projects/xotrii-online-brand-system/README.md) |
+| **Academic Credential Portfolio** | Georgia State University Associate of Science credential and professional foundation | [View Project](projects/academic-credential-portfolio/README.md) |
+| **Creative Project Roadmap** | Future repositories based on XOTRII game, web, app, and portfolio ideas | [View Roadmap](projects/creative-project-roadmap/README.md) |
+
 ## Current Focus
 
 - Building polished portfolio projects that show both **code quality** and **creative direction**
