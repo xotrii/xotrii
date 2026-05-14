@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="XOTRII card battle UI prototype with animated cyber cards and JavaScript battle logic.">
+    <title>XOTRII Card Battle UI</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <main class="app-shell">
+        <header class="hero-panel">
+            <p class="eyebrow">xotrii battle system / prototype</p>
+            <h1>Card Battle UI</h1>
+            <p>Pick a card, enter the arena, and test the battle score logic.</p>
+        </header>
+
+        <section class="scoreboard" aria-label="Battle scoreboard">
+            <div>
+                <span>Wins</span>
+                <strong id="wins">0</strong>
+            </div>
+            <div>
+                <span>Losses</span>
+                <strong id="losses">0</strong>
+            </div>
+            <div>
+                <span>Draws</span>
+                <strong id="draws">0</strong>
+            </div>
+        </section>
+
+        <section class="arena">
+            <div>
+                <h2>Your Card</h2>
+                <div id="playerCard" class="battle-slot empty">Select a card below</div>
+            </div>
+            <div class="versus">VS</div>
+            <div>
+                <h2>Opponent</h2>
+                <div id="enemyCard" class="battle-slot empty">Waiting...</div>
+            </div>
+        </section>
+
+        <section class="controls">
+            <button id="battleButton" type="button">Start Battle</button>
+            <p id="battleResult">Choose a card to begin.</p>
+        </section>
+
+        <section id="cardGrid" class="card-grid" aria-label="Selectable battle cards"></section>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
