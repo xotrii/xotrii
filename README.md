@@ -76,9 +76,21 @@ I use GitHub as my coding area for projects that combine front-end development, 
 | **Internship Portfolio Site** | Responsive professional portfolio landing page with cyber-green XOTRII branding | [View Code](projects/internship-portfolio-site/README.md) |
 | **XOTRII Card Battle UI** | Interactive JavaScript game UI prototype with card selection, battle logic, scoring, and animated aura effects | [View Code](projects/xotrii-card-battle-ui/README.md) |
 | **Remote Internship Tracker** | Career dashboard using JavaScript, filtering, form validation, and localStorage | [View Code](projects/remote-internship-tracker/README.md) |
+| **Open Source Organization Radar** | Target organizations and communities for creative coding, UI/UX, game dev, and 3D web contribution | [View Radar](projects/open-source-organization-radar/README.md) |
 | **XOTRII Online Brand System** | Hacker-green cyber branding, visual identity, UI direction | [View Project](projects/xotrii-online-brand-system/README.md) |
 | **Academic Credential Portfolio** | Georgia State University Associate of Science credential and professional foundation | [View Project](projects/academic-credential-portfolio/README.md) |
 | **Creative Project Roadmap** | Future repositories based on XOTRII game, web, app, and portfolio ideas | [View Roadmap](projects/creative-project-roadmap/README.md) |
+
+## Organizations I Am Watching
+
+| Organization / Project | Why It Fits |
+|---|---|
+| **Processing / p5.js** | Creative coding, generative visuals, browser-based art, and interactive design |
+| **Open Source Design** | UI/UX contribution, design systems, accessibility, and open-source collaboration |
+| **PixiJS** | 2D WebGL graphics for card systems, animated menus, and game-style interfaces |
+| **three.js / pmndrs** | 3D web scenes, interactive graphics, and next-generation portfolio experiences |
+| **Godot Engine** | Game development foundation for fighting game, card battle, and character-select concepts |
+| **OPENRNDR** | Advanced creative coding, real-time graphics, and experimental visual systems |
 
 ## Current Focus
 
