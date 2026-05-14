@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Remote internship tracker built with HTML, CSS, JavaScript, and localStorage.">
+    <title>Remote Internship Tracker | XOTRII</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <main class="dashboard-shell">
+        <header class="header-panel">
+            <div>
+                <p class="eyebrow">career ops / xotrii system</p>
+                <h1>Remote Internship Tracker</h1>
+                <p>Track applications, follow-ups, interviews, and opportunities in one clean dashboard.</p>
+            </div>
+        </header>
+
+        <section class="stats-grid" aria-label="Application statistics">
+            <article>
+                <span>Total</span>
+                <strong id="totalCount">0</strong>
+            </article>
+            <article>
+                <span>Applied</span>
+                <strong id="appliedCount">0</strong>
+            </article>
+            <article>
+                <span>Interview</span>
+                <strong id="interviewCount">0</strong>
+            </article>
+            <article>
+                <span>Follow Up</span>
+                <strong id="followUpCount">0</strong>
+            </article>
+        </section>
+
+        <section class="workspace-grid">
+            <form id="leadForm" class="panel form-panel">
+                <h2>Add Opportunity</h2>
+                <label>
+                    Company
+                    <input id="companyInput" type="text" placeholder="Example: Microsoft" required>
+                </label>
+                <label>
+                    Role
+                    <input id="roleInput" type="text" placeholder="Example: Front-End Intern" required>
+                </label>
+                <label>
+                    Status
+                    <select id="statusInput">
+                        <option value="Saved">Saved</option>
+                        <option value="Applied">Applied</option>
+                        <option value="Interview">Interview</option>
+                        <option value="Follow Up">Follow Up</option>
+                        <option value="Rejected">Rejected</option>
+                    </select>
+                </label>
+                <label>
+                    Priority
+                    <select id="priorityInput">
+                        <option value="High">High</option>
+                        <option value="Medium">Medium</option>
+                        <option value="Low">Low</option>
+                    </select>
+                </label>
+                <label>
+                    Next Action
+                    <input id="actionInput" type="text" placeholder="Example: Send portfolio link">
+                </label>
+                <button type="submit">Add Lead</button>
+            </form>
+
+            <section class="panel list-panel">
+                <div class="list-header">
+                    <div>
+                        <h2>Opportunity Pipeline</h2>
+                        <p>Use filters to focus your next career move.</p>
+                    </div>
+                    <select id="filterInput" aria-label="Filter opportunities by status">
+                        <option value="All">All</option>
+                        <option value="Saved">Saved</option>
+                        <option value="Applied">Applied</option>
+                        <option value="Interview">Interview</option>
+                        <option value="Follow Up">Follow Up</option>
+                        <option value="Rejected">Rejected</option>
+                    </select>
+                </div>
+                <div id="leadList" class="lead-list"></div>
+            </section>
+        </section>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
