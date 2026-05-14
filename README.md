@@ -69,10 +69,13 @@ I use GitHub as my coding area for projects that combine front-end development, 
 | **Computer Science Labs** | Java OOP, inheritance, recursion, stacks, queues, file I/O, and data structures practice |
 | **Creative Branding** | XOTRII visual systems, dark mode layouts, hacker-green accents, and underground anime-inspired design language |
 
-## XOTRII Project Library
+## Recruiter-Ready Project Library
 
 | Project | Focus | Link |
 |---|---|---|
+| **Internship Portfolio Site** | Responsive professional portfolio landing page with cyber-green XOTRII branding | [View Code](projects/internship-portfolio-site/README.md) |
+| **XOTRII Card Battle UI** | Interactive JavaScript game UI prototype with card selection, battle logic, scoring, and animated aura effects | [View Code](projects/xotrii-card-battle-ui/README.md) |
+| **Remote Internship Tracker** | Career dashboard using JavaScript, filtering, form validation, and localStorage | [View Code](projects/remote-internship-tracker/README.md) |
 | **XOTRII Online Brand System** | Hacker-green cyber branding, visual identity, UI direction | [View Project](projects/xotrii-online-brand-system/README.md) |
 | **Academic Credential Portfolio** | Georgia State University Associate of Science credential and professional foundation | [View Project](projects/academic-credential-portfolio/README.md) |
 | **Creative Project Roadmap** | Future repositories based on XOTRII game, web, app, and portfolio ideas | [View Roadmap](projects/creative-project-roadmap/README.md) |
@@ -82,7 +85,7 @@ I use GitHub as my coding area for projects that combine front-end development, 
 - Building polished portfolio projects that show both **code quality** and **creative direction**
 - Improving repository documentation with clear READMEs, screenshots, setup steps, and project goals
 - Developing branded web experiences for **xotrii.online**
-- Strengthening Java, Python, and front-end development skills through applied projects
+- Strengthening JavaScript, Java, Python, and front-end development skills through applied projects
 
 ## XOTRII Brand System
 
