@@ -7,6 +7,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0B0F0E,45:39FF14,100:FFFFFF&text=xotrii.exe&fontColor=FFFFFF&fontSize=48&animation=fadeIn&fontAlignY=35&desc=building%20interactive%20web%20experiences%20with%20game-inspired%20design&descAlignY=58&descSize=15" alt="xotrii.exe animated banner" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-xotrii.online-39FF14?style=for-the-badge&logo=vercel&logoColor=black)](https://xotrii.online)
+[![Instagram](https://img.shields.io/badge/Instagram-@xotrii-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xotrii?igsh=MXc2M3I2OG1nc2xiaQ%3D%3D&utm_source=qr)
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-XOTRII-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://on.soundcloud.com/9uwOBieUpN0xUZ19wA)
 [![GitHub](https://img.shields.io/badge/GitHub-xotrii-181717?style=for-the-badge&logo=github)](https://github.com/xotrii)
 [![Focus](https://img.shields.io/badge/Focus-UI%2FUX%20%7C%20Web%20%7C%20Game%20Systems-ffffff?style=for-the-badge)](#)
 
@@ -25,6 +27,15 @@
 I am **XOTRII**, a computer science student and creative designer building at the intersection of software, visual identity, and interactive media. My work focuses on professional web experiences, game-inspired interfaces, branded digital systems, and clean technical documentation.
 
 I use GitHub as my coding area for projects that combine front-end development, UI/UX thinking, programming fundamentals, and creative technology.
+
+## Connect
+
+| Platform | Link |
+|---|---|
+| **Portfolio** | [xotrii.online](https://xotrii.online) |
+| **Instagram** | [@xotrii](https://www.instagram.com/xotrii?igsh=MXc2M3I2OG1nc2xiaQ%3D%3D&utm_source=qr) |
+| **SoundCloud** | [XOTRII on SoundCloud](https://on.soundcloud.com/9uwOBieUpN0xUZ19wA) |
+| **GitHub** | [github.com/xotrii](https://github.com/xotrii) |
 
 ## Core Strengths
 
@@ -100,6 +111,6 @@ Message:     build clean, move different, stay original
 
 **Creative developer building branded web experiences, interactive interfaces, and portfolio-ready digital projects.**
 
-`xotrii.exe` · `xotrii.online` · `creative code` · `UI/UX` · `game-inspired systems`
+`xotrii.exe` · `xotrii.online` · `creative code` · `UI/UX` · `game-inspired systems` · `SoundCloud` · `Instagram`
 
 </div>
