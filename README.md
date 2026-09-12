@@ -1,131 +1,74 @@
-<div align="center">
+<p align="center">
+  <img width="100%" alt="XOTRII — AI, data, design, and creative technology" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:030604,50:0F3D26,100:39FF14&text=XOTRII&fontColor=FFFFFF&fontSize=50&animation=fadeIn&fontAlignY=36&desc=AI%20%C2%B7%20DATA%20%C2%B7%20DESIGN%20%C2%B7%20CREATIVE%20TECHNOLOGY&descAlignY=58&descSize=15" />
+</p>
 
-# XOTRII
+<h3 align="center">Creative Technologist · Applied AI · Data · Front-End & UI Design</h3>
 
-### Creative Technologist · Front-End Developer · UI/UX Designer
+<p align="center">
+  Atlanta, Georgia · Building practical systems with a distinct visual identity
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0B0F0E,45:39FF14,100:FFFFFF&text=xotrii.exe&fontColor=FFFFFF&fontSize=48&animation=fadeIn&fontAlignY=35&desc=building%20interactive%20web%20experiences%20with%20game-inspired%20design&descAlignY=58&descSize=15" alt="xotrii.exe animated banner" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/xotrii"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:xotriimgmt@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=39FF14" /></a>
+  <a href="https://github.com/xotrii"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=39FF14" /></a>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-xotrii.online-39FF14?style=for-the-badge&logo=vercel&logoColor=black)](https://xotrii.online)
-[![Instagram](https://img.shields.io/badge/Instagram-@xotrii-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xotrii?igsh=MXc2M3I2OG1nc2xiaQ%3D%3D&utm_source=qr)
-[![SoundCloud](https://img.shields.io/badge/SoundCloud-XOTRII-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://on.soundcloud.com/9uwOBieUpN0xUZ19wA)
-[![GitHub](https://img.shields.io/badge/GitHub-xotrii-181717?style=for-the-badge&logo=github)](https://github.com/xotrii)
-[![Focus](https://img.shields.io/badge/Focus-UI%2FUX%20%7C%20Web%20%7C%20Game%20Systems-ffffff?style=for-the-badge)](#)
+## `> profile`
 
-</div>
+I'm **Tristan Williams**, the creator behind **XOTRII**. I build at the intersection of applied AI, data, front-end development, and visual design—turning ideas into useful, polished digital experiences.
 
----
+- 🔭 Building AI-powered communication tools, interactive web experiences, and data dashboards
+- 👯 Open to collaborating on AI, front-end, UI/UX, data-visualization, and creative-tech projects
+- 🤝 Growing in production deployment, API integration, and scalable application architecture
+- 🌱 Learning applied AI, advanced Python, Power BI/DAX, and cloud technologies
+- 💬 Ask me about prompt engineering, graphic design, web/app design, data analytics, or audio production
+- ⚡ I blend code, design, and sound so projects feel like complete brands—not just assignments
 
-```bash
-> booting xotrii.exe
-> loading creative systems, clean code, and interactive digital experiences
-> status: building the next version
-```
+## `> featured systems`
 
-## About
+| Project | What it demonstrates | Stack | Demo |
+|---|---|---|---|
+| [Creative Tech Portfolio](https://github.com/xotrii/creative-tech-portfolio) | Responsive layout, brand systems, motion, and recruiter-focused presentation | HTML · CSS · JavaScript | [Launch](https://xotrii.github.io/creative-tech-portfolio/) |
+| [XOTRII Card Battle UI](https://github.com/xotrii/xotrii-card-battle-ui) | Dynamic rendering, application state, battle logic, and game-interface design | JavaScript · CSS · HTML | [Play](https://xotrii.github.io/xotrii-card-battle-ui/) |
+| [Remote Internship Tracker](https://github.com/xotrii/remote-internship-tracker) | Browser storage, filtering, validation, and practical dashboard UX | JavaScript · localStorage · CSS | [Open](https://xotrii.github.io/remote-internship-tracker/) |
 
-I am **XOTRII**, a computer science student and creative designer building at the intersection of software, visual identity, and interactive media. My work focuses on professional web experiences, game-inspired interfaces, branded digital systems, and clean technical documentation.
+## `> toolkit`
 
-I use GitHub as my coding area for projects that combine front-end development, UI/UX thinking, programming fundamentals, and creative technology.
+### AI & data
 
-## Connect
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=39FF14)
+![Pandas](https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas&logoColor=39FF14)
+![NumPy](https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy&logoColor=39FF14)
+![Power BI](https://img.shields.io/badge/Power_BI-111111?style=for-the-badge&logo=powerbi&logoColor=39FF14)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-111111?style=for-the-badge&logo=openai&logoColor=39FF14)
 
-| Platform | Link |
-|---|---|
-| **Portfolio** | [xotrii.online](https://xotrii.online) |
-| **Instagram** | [@xotrii](https://www.instagram.com/xotrii?igsh=MXc2M3I2OG1nc2xiaQ%3D%3D&utm_source=qr) |
-| **SoundCloud** | [XOTRII on SoundCloud](https://on.soundcloud.com/9uwOBieUpN0xUZ19wA) |
-| **GitHub** | [github.com/xotrii](https://github.com/xotrii) |
+### Development & design
 
-## Core Strengths
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=39FF14)
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=39FF14)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=39FF14)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=39FF14)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=39FF14)
+![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=39FF14)
 
-- **Front-End Development:** responsive layouts, landing pages, portfolio sites, animated interfaces, and web components  
-- **Programming Foundations:** Java, Python, object-oriented programming, data structures, and problem solving  
-- **Creative Direction:** branding systems, dark UI aesthetics, motion concepts, game-style menus, and digital art presentation  
-- **Project Execution:** turning rough ideas into structured builds, documented repositories, and portfolio-ready case studies  
+## `> recruiter snapshot`
 
-## Tech Stack
+- **Education:** Associate of Science completed · B.I.S. in Arts & Sciences at Georgia State University, expected 2027
+- **Strengths:** visual problem-solving, responsive interfaces, data storytelling, technical documentation, and cross-disciplinary execution
+- **Target roles:** remote internships and entry-level opportunities in AI operations, data analytics, front-end development, and creative technology
+- **Work style:** thoughtful, independent, detail-focused, and committed to shipping polished work
 
-<div align="center">
+## `> verified learning`
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+[![Google AI Professional Certificate](https://img.shields.io/badge/Google_AI-Professional_Certificate-39FF14?style=for-the-badge&logo=google&logoColor=111111)](https://www.coursera.org/account/accomplishments/professional-cert/NS8PD05RBXLN)
 
-</div>
+## `> activity`
 
-## Featured Project Areas
+<p align="center">
+  <img height="165" alt="XOTRII GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=xotrii&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&title_color=39FF14&text_color=C9D1D9&icon_color=39FF14" />
+  <img height="165" alt="XOTRII most-used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xotrii&layout=compact&theme=transparent&hide_border=true&title_color=39FF14&text_color=C9D1D9" />
+</p>
 
-| Area | What I Build |
-|---|---|
-| **Portfolio Systems** | Personal brand sites, project showcases, Handshake-ready portfolios, and professional case studies |
-| **Interactive Web Design** | Animated pages, live video backgrounds, audio-preview layouts, card systems, and responsive UI concepts |
-| **Game-Inspired Interfaces** | Character selection screens, battle card layouts, rank systems, HUD concepts, and menu animations |
-| **Computer Science Labs** | Java OOP, inheritance, recursion, stacks, queues, file I/O, and data structures practice |
-| **Creative Branding** | XOTRII visual systems, dark mode layouts, hacker-green accents, and underground anime-inspired design language |
+<p align="center"><code>CREATE → LEARN → BUILD → EVOLVE</code></p>
 
-## Recruiter-Ready Project Library
-
-| Project | Focus | Link |
-|---|---|---|
-| **Internship Portfolio Site** | Responsive professional portfolio landing page with cyber-green XOTRII branding | [View Code](projects/internship-portfolio-site/README.md) |
-| **XOTRII Card Battle UI** | Interactive JavaScript game UI prototype with card selection, battle logic, scoring, and animated aura effects | [View Code](projects/xotrii-card-battle-ui/README.md) |
-| **Remote Internship Tracker** | Career dashboard using JavaScript, filtering, form validation, and localStorage | [View Code](projects/remote-internship-tracker/README.md) |
-| **Open Source Organization Radar** | Target organizations and communities for creative coding, UI/UX, game dev, and 3D web contribution | [View Radar](projects/open-source-organization-radar/README.md) |
-| **XOTRII Online Brand System** | Hacker-green cyber branding, visual identity, UI direction | [View Project](projects/xotrii-online-brand-system/README.md) |
-| **Academic Credential Portfolio** | Georgia State University Associate of Science credential and professional foundation | [View Project](projects/academic-credential-portfolio/README.md) |
-| **Creative Project Roadmap** | Future repositories based on XOTRII game, web, app, and portfolio ideas | [View Roadmap](projects/creative-project-roadmap/README.md) |
-
-## Organizations I Am Watching
-
-| Organization / Project | Why It Fits |
-|---|---|
-| **Processing / p5.js** | Creative coding, generative visuals, browser-based art, and interactive design |
-| **Open Source Design** | UI/UX contribution, design systems, accessibility, and open-source collaboration |
-| **PixiJS** | 2D WebGL graphics for card systems, animated menus, and game-style interfaces |
-| **three.js / pmndrs** | 3D web scenes, interactive graphics, and next-generation portfolio experiences |
-| **Godot Engine** | Game development foundation for fighting game, card battle, and character-select concepts |
-| **OPENRNDR** | Advanced creative coding, real-time graphics, and experimental visual systems |
-
-## Current Focus
-
-- Building polished portfolio projects that show both **code quality** and **creative direction**
-- Improving repository documentation with clear READMEs, screenshots, setup steps, and project goals
-- Developing branded web experiences for **xotrii.online**
-- Strengthening JavaScript, Java, Python, and front-end development skills through applied projects
-
-## XOTRII Brand System
-
-```txt
-Name:        XOTRII
-Style:       futuristic, underground, sharp, game-inspired
-Palette:     black, white, hacker green, metallic accents
-Direction:   creative technology + professional execution
-Message:     build clean, move different, stay original
-```
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=xotrii&show_icons=true&theme=merko&hide_border=true&title_color=39FF14&icon_color=39FF14" alt="XOTRII GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xotrii&layout=compact&theme=merko&hide_border=true&title_color=39FF14" alt="XOTRII top languages" />
-
-</div>
-
----
-
-<div align="center">
-
-### Professional Profile
-
-**Creative developer building branded web experiences, interactive interfaces, and portfolio-ready digital projects.**
-
-`xotrii.exe` · `xotrii.online` · `creative code` · `UI/UX` · `game-inspired systems` · `SoundCloud` · `Instagram`
-
-</div>
