@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">XOTRII hologram</title>
+  <desc id="desc">Animated neon-green XOTRII wordmark with scanlines and a technical interface.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#020504"/>
+      <stop offset=".52" stop-color="#07130b"/>
+      <stop offset="1" stop-color="#020504"/>
+    </linearGradient>
+    <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#39ff14" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#dffff1" stop-opacity=".95"/>
+      <stop offset="1" stop-color="#39ff14" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse">
+      <path d="M38 0H0V38" fill="none" stroke="#39ff14" stroke-opacity=".075"/>
+    </pattern>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <path d="M0 1.5H1200" stroke="#dffff1" stroke-opacity=".08"/>
+    </pattern>
+    <filter id="glow" x="-40%" y="-80%" width="180%" height="260%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feFlood flood-color="#39ff14" flood-opacity=".9"/>
+      <feComposite in2="blur" operator="in"/>
+      <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="soft" x="-20%" y="-80%" width="140%" height="260%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+    <clipPath id="frame"><rect x="16" y="16" width="1168" height="288" rx="18"/></clipPath>
+  </defs>
+  <style>
+    .word{font:900 132px/1 ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif;letter-spacing:28px}
+    .mono{font:600 15px/1 ui-monospace,SFMono-Regular,Consolas,monospace;letter-spacing:2px}
+    .pulse{animation:pulse 3.2s ease-in-out infinite;transform-origin:600px 160px}
+    .ghost-a{animation:ghostA 4.7s steps(1,end) infinite}
+    .ghost-b{animation:ghostB 5.3s steps(1,end) infinite}
+    .sweep{animation:sweep 4s linear infinite}
+    .blink{animation:blink 1.1s steps(1,end) infinite}
+    .drift{animation:drift 8s ease-in-out infinite alternate}
+    @keyframes pulse{0%,100%{opacity:.88;transform:scale(1)}50%{opacity:1;transform:scale(1.012)}}
+    @keyframes ghostA{0%,91%,100%{transform:translate(0)}92%{transform:translate(-8px,2px)}94%{transform:translate(5px,-1px)}96%{transform:translate(0)}}
+    @keyframes ghostB{0%,86%,100%{transform:translate(0)}87%{transform:translate(10px,-2px)}89%{transform:translate(-4px,1px)}91%{transform:translate(0)}}
+    @keyframes sweep{from{transform:translateY(-45px)}to{transform:translateY(390px)}}
+    @keyframes blink{50%{opacity:.22}}
+    @keyframes drift{from{transform:translateX(-9px)}to{transform:translateX(9px)}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="320" fill="url(#bg)"/>
+    <rect width="1200" height="320" fill="url(#grid)"/>
+    <ellipse cx="600" cy="267" rx="375" ry="28" fill="#39ff14" opacity=".13" filter="url(#soft)"/>
+    <g class="drift" fill="#39ff14">
+      <circle cx="88" cy="92" r="1.6" opacity=".55"/><circle cx="158" cy="226" r="1" opacity=".42"/>
+      <circle cx="1054" cy="72" r="1.4" opacity=".55"/><circle cx="1110" cy="235" r="1.2" opacity=".45"/>
+      <circle cx="310" cy="64" r=".9" opacity=".38"/><circle cx="903" cy="252" r="1.1" opacity=".4"/>
+    </g>
+    <g class="pulse">
+      <text x="600" y="202" text-anchor="middle" class="word ghost-a" fill="#00e5ff" opacity=".22">XOTRII</text>
+      <text x="600" y="202" text-anchor="middle" class="word ghost-b" fill="#ffffff" opacity=".18">XOTRII</text>
+      <text x="600" y="202" text-anchor="middle" class="word" fill="#07130b" stroke="#39ff14" stroke-width="3" filter="url(#glow)">XOTRII</text>
+      <text x="600" y="202" text-anchor="middle" class="word" fill="none" stroke="#dffff1" stroke-width=".8" opacity=".78">XOTRII</text>
+    </g>
+    <rect width="1200" height="320" fill="url(#scan)"/>
+    <rect class="sweep" x="140" y="-24" width="920" height="3" fill="url(#beam)" opacity=".8"/>
+    <path d="M42 75V42h33M1125 42h33v33M42 245v33h33M1158 245v33h-33" fill="none" stroke="#39ff14" stroke-width="2" opacity=".7"/>
+    <text x="48" y="99" class="mono" fill="#39ff14">XTR//SIGNAL_01</text>
+    <text x="1152" y="99" text-anchor="end" class="mono" fill="#9decae">ATL · ONLINE</text>
+    <text x="48" y="269" class="mono" fill="#9decae">AI / DATA / DESIGN</text>
+    <g class="blink"><circle cx="1139" cy="264" r="5" fill="#39ff14" filter="url(#glow)"/><text x="1124" y="269" text-anchor="end" class="mono" fill="#39ff14">SYSTEM READY</text></g>
+  </g>
+  <rect x="16" y="16" width="1168" height="288" rx="18" fill="none" stroke="#39ff14" stroke-opacity=".42"/>
+</svg>
