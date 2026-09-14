@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" alt="XOTRII — AI, data, design, and creative technology" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:030604,50:0F3D26,100:39FF14&text=XOTRII&fontColor=FFFFFF&fontSize=50&animation=fadeIn&fontAlignY=36&desc=AI%20%C2%B7%20DATA%20%C2%B7%20DESIGN%20%C2%B7%20CREATIVE%20TECHNOLOGY&descAlignY=58&descSize=15" />
+  <img width="100%" alt="Animated XOTRII hologram — AI, data, design, and creative technology" src="./assets/xotrii-hologram.svg" />
 </p>
 
 <h3 align="center">Creative Technologist · Applied AI · Data · Front-End & UI Design</h3>
