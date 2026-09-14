@@ -33,6 +33,18 @@ I'm **Tristan Williams**, the creator behind **XOTRII**. I build at the intersec
 | [XOTRII Card Battle UI](https://github.com/xotrii/xotrii-card-battle-ui) | Dynamic rendering, application state, battle logic, and game-interface design | JavaScript · CSS · HTML | [Play](https://xotrii.github.io/xotrii-card-battle-ui/) |
 | [Remote Internship Tracker](https://github.com/xotrii/remote-internship-tracker) | Browser storage, filtering, validation, and practical dashboard UX | JavaScript · localStorage · CSS | [Open](https://xotrii.github.io/remote-internship-tracker/) |
 
+## `> recruiter lab`
+
+Five small, inspectable products—each with a live demo, transparent limitations, and tested shared logic.
+
+| Demo | Product signal | Open |
+|---|---|---|
+| XOTRII Hologram Lab | Real-time 3D, interaction design, WebGL fallback | [Live](https://xotrii.github.io/creative-tech-portfolio/projects/xotrii-hologram/) · [Code](https://github.com/xotrii/creative-tech-portfolio/tree/main/projects/xotrii-hologram) |
+| VoiceBridge AI | Browser speech APIs, local phrase translation, privacy-aware UX | [Live](https://xotrii.github.io/creative-tech-portfolio/projects/voicebridge-ai/) · [Code](https://github.com/xotrii/creative-tech-portfolio/tree/main/projects/voicebridge-ai) |
+| ShiftLens AI | Synthetic operations data, forecasts, staffing scenarios | [Live](https://xotrii.github.io/creative-tech-portfolio/projects/shiftlens-ai/) · [Code](https://github.com/xotrii/creative-tech-portfolio/tree/main/projects/shiftlens-ai) |
+| SonicScope AI | Web Audio analysis, waveform and spectrum visualization | [Live](https://xotrii.github.io/creative-tech-portfolio/projects/sonicscope-ai/) · [Code](https://github.com/xotrii/creative-tech-portfolio/tree/main/projects/sonicscope-ai) |
+| DesignGuard AI | WCAG checks, palette extraction, alt-text and HTML audits | [Live](https://xotrii.github.io/creative-tech-portfolio/projects/designguard-ai/) · [Code](https://github.com/xotrii/creative-tech-portfolio/tree/main/projects/designguard-ai) |
+
 ## `> toolkit`
 
 ### AI & data
